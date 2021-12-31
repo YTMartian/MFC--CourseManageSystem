@@ -12,6 +12,6 @@ CourseManageSystem created with the MFC
 - Two program running screenshots
 
 
-<img src="http://ovp2c51mt.bkt.clouddn.com/mfc%20%282%29.png" width="70%"></img>
+<img src="https://www.dongjiayi.com/static/files/mfc%20%282%29.png" width="70%"></img>
 
-<img src="http://ovp2c51mt.bkt.clouddn.com/mfc%20%281%29.png" width="70%"></img>
+<img src="https://www.dongjiayi.com/static/files/mfc%20%281%29.png" width="70%"></img>
